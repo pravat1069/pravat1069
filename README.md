@@ -10,22 +10,22 @@ I specialize in:
 
 ## Projects
 ### Python & Machine Learning
-- **Project 1**:Multilingual Chatbot with Text and Speech Input and [Link to Repository]
+- **Project 1**:Multilingual Chatbot with Text and Speech Input 
 - This project is a multilingual chatbot that uses Python to interact with users through both text and speech inputs.
 -  It employs machine learning for intent classification and integrates text-to-speech functionality for audio responses.
-- **Project 2**: Description and [Link to Repository]
+
 
 ### Tableau
-- **Dashboard 1**: Description and [Link to Tableau Public Profile or Repository]
-- **Dashboard 2**: Description and [Link to Tableau Public Profile or Repository]
+- **Dashboard 1**: Description 
+- **Dashboard 2**: Description 
 
 ### Power BI
-- **Report 1**: Description and [Link to Power BI Report or Repository]
-- **Report 2**: Description and [Link to Power BI Report or Repository]
+- **Report 1**: Description 
+- **Report 2**: Description 
 
 ### Excel
-- **Excel Project 1**: Description and [Link to Repository]
-- **Excel Project 2**: Description and [Link to Repository]
+- **Excel Project 1**: Description and
+- **Excel Project 2**: Description and
 
 ## Skills
 - **Programming Languages**: Python
