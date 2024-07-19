@@ -10,7 +10,9 @@ I specialize in:
 
 ## Projects
 ### Python & Machine Learning
-- **Project 1**: Description and [Link to Repository]
+- **Project 1**:Multilingual Chatbot with Text and Speech Input and [Link to Repository]
+- This project is a multilingual chatbot that uses Python to interact with users through both text and speech inputs.
+-  It employs machine learning for intent classification and integrates text-to-speech functionality for audio responses.
 - **Project 2**: Description and [Link to Repository]
 
 ### Tableau
